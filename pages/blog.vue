@@ -1,13 +1,12 @@
 <template>
-    <section>
-        <h2>this Blog page</h2>
-    </section>
+  <section>
+    <h2>this Blog pageeeeeeeeee</h2>
+  </section>
 </template>
-
 
 <script>
 export default {
-    name: 'Blog',
-    layout: 'blog'
+  name: 'Blog',
+  layout: 'blog',
 }
 </script>
